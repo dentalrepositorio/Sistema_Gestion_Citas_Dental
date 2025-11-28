@@ -2,9 +2,7 @@
 "Solución de software para gestión de citas odontológicas con persistencia de datos y validación de integridad."
 # Proyecto Final: Sistema de Gestión de Citas Dentales
 **Asignatura:** INF-4311
-**Estudiante:** [PON TU NOMBRE]
-**Matrícula:** [PON TU MATRÍCULA]
-
+**Estudiante:** [FRANKLIN PEREZ MATOS]
 ## 📋 Descripción del Proyecto
 Este repositorio contiene el código fuente de la solución propuesta para la gestión administrativa de un consultorio dental. El sistema permite gestionar el ciclo de vida de las citas mediante una interfaz de consola (CLI).
 
